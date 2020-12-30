@@ -16,3 +16,5 @@ Using the D3 techniques, create a scatter plot that represents each state with c
 * Included state abbreviations in the circles.
 
 * Created and situated axes and labels to the left and bottom of the chart.
+
+
