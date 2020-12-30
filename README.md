@@ -18,4 +18,3 @@ Using the D3 techniques, create a scatter plot that represents each state with c
 * Created and situated axes and labels to the left and bottom of the chart.
 
 https://ku.bootcampcontent.com/ku-coding-boot-camp/ku-edw-data-pt-07-2020-u-c/raw/master/02-Homework/16-D3/Instructions/Images/7-animated-scatter.gif
-
