@@ -18,3 +18,4 @@ Using the D3 techniques, create a scatter plot that represents each state with c
 * Created and situated axes and labels to the left and bottom of the chart.
 
 ![7-animated-scatter](Images/7-animated-scatter.gif)
+
